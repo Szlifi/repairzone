@@ -10,3 +10,5 @@ Config.points = {
         job = 'police'
     },
 }
+
+test
